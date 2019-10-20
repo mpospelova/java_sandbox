@@ -2,7 +2,7 @@
 for training.
 Doing some little exercises about string/number manipulation, algorithms.
 This repository is for tracking my coding experience.
-Maybe I'll add haskell, c, c++, python, go, C#, javascript repositories for bettering up my knowledge i those languages.
+Maybe I'll add haskell, c, c++, python, go, C#, javascript repositories for bettering up my knowledge in those languages.
 For now my knowledge in languages:
 
 Java:                   . . .
