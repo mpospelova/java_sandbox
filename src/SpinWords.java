@@ -9,11 +9,11 @@ public class SpinWords {
             String substring = "";
             char c = sentence.charAt(i);
 
-            if(c == ' ' || i == sentence.length() - 1) {
-                if(c == ' ') {
-                    secondPosition = i;
-                } else
-                    secondPosition = i + 1;
+                if(c == ' ' || i == sentence.length() - 1) {
+                    if(c == ' ') {
+                        secondPosition = i;
+                    } else
+                        secondPosition = i + 1;
 
                 substring = sentence.substring(firstPosition, secondPosition);
 
